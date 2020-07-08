@@ -31,3 +31,14 @@ C:\Users\VISION\Documents\Visual Studio 2017\Projects\AHP WBanaczkowska — kopi
 C:\Users\VISION\Documents\Visual Studio 2017\Projects\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.csproj.GenerateResource.Cache
 C:\Users\VISION\Documents\Visual Studio 2017\Projects\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.exe
 C:\Users\VISION\Documents\Visual Studio 2017\Projects\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.pdb
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\bin\Debug\AHP WBanaczkowska.exe.config
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\bin\Debug\AHP WBanaczkowska.exe
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\bin\Debug\AHP WBanaczkowska.pdb
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\bin\Debug\MathNet.Numerics.dll
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\bin\Debug\MathNet.Numerics.xml
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.csprojResolveAssemblyReference.cache
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP.Form1.resources
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP_WBanaczkowska.Properties.Resources.resources
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.csproj.GenerateResource.Cache
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.exe
+C:\Users\VISION\Desktop\Mat\Licencjat\AHP WBanaczkowska — kopia2\AHP WBanaczkowska\obj\Debug\AHP WBanaczkowska.pdb
